@@ -123,6 +123,10 @@ python video_detect.py
 ```
 Available in runs/predicts
 
+
+https://github.com/user-attachments/assets/70483595-dbc7-4e5f-b3d4-641ad7298c1f
+
+
 ### 5. Live Webcam Detection
 
 ```bash
